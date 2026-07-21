@@ -2,20 +2,20 @@
   <img src="frontpage.png" alt="All About Human Diseases Cover" width="420" />
 </p>
 
-[![LaTeX Build](https://img.shields.io/badge/PDF-383%20Pages-blue.svg)](human_diseases.pdf)
-[![Diseases](https://img.shields.io/badge/Disease%20Entries-862-green.svg)](#-chapter-directory--content-breakdown)
+[![LaTeX Build](https://img.shields.io/badge/PDF-387%20Pages-blue.svg)](human_diseases.pdf)
+[![Diseases](https://img.shields.io/badge/Disease%20Entries-871-green.svg)](#-chapter-directory--content-breakdown)
 [![Organ Systems](https://img.shields.io/badge/Organ%20Systems-31-orange.svg)](#-chapter-directory--content-breakdown)
 [![License](https://img.shields.io/badge/License-Copyright%202026-red.svg)](#-author--copyright)
 
 **Author:** Chaman Singh Verma  
 **Repository:** [github.com/csv610/human_diseases_book](https://github.com/csv610/human_diseases_book)  
-**PDF Manuscript:** [human_diseases.pdf](human_diseases.pdf) *(383 Pages, 3.6 MB)*  
+**PDF Manuscript:** [human_diseases.pdf](human_diseases.pdf) *(387 Pages, 3.6 MB)*  
 
 ---
 
 ## 📖 Overview
 
-***All About Human Diseases: An Organ-Categorized Medical Reference*** is an encyclopedic, high-yield medical textbook providing comprehensive coverage of **862 human diseases and clinical conditions** categorized across **31 primary organ systems** and medical specialties.
+***All About Human Diseases: An Organ-Categorized Medical Reference*** is an encyclopedic, high-yield medical textbook providing comprehensive coverage of **871 human diseases and clinical conditions** categorized across **31 primary organ systems** and medical specialties.
 
 Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 1/2/3, PLAB, MRCP), physicians, and healthcare professionals, this volume unifies Internal Medicine, General Surgery, Pediatrics, Obstetrics & Gynecology, Neurology, Psychiatry, Dermatology, Toxicology, Geriatrics, and Pain Medicine into a single structured volume.
 
@@ -23,7 +23,7 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 
 ## ✨ Key Features & Unique Architecture
 
-- **🔤 Dual-Axis Organization**: Categorized by primary anatomical organ system macro-level, with **100% strict alphabetical sorting** of all 199 sections and 862 subsections.
+- **🔤 Dual-Axis Organization**: Categorized by primary anatomical organ system macro-level, with **100% strict alphabetical sorting** of all 199 sections and 871 subsections.
 - **🎯 Standardized Clinical Framework**: Every disease entry adheres to a non-redundant 6-part medical structure:
   $$\text{Etiology} \longrightarrow \text{Pathophysiology} \longrightarrow \text{Clinical Features} \longrightarrow \text{Diagnostics} \longrightarrow \text{Management} \longrightarrow \text{Prognosis}$$
 - **🧠 100% Section-Level Overviews**: Every single section features an introductory summary paragraph establishing physiological context and classification logic before listing specific diseases.
@@ -50,7 +50,7 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 | **12** | Diseases of the Muscles | 4 | 13 |
 | **13** | Systemic Autoimmune and Connective Tissue Diseases | 5 | 26 |
 | **14** | Diseases of the Skin | 10 | 35 |
-| **15** | Diseases of the Breast | 2 | 9 |
+| **15** | Diseases of the Breast | 2 | 18 |
 | **16** | Diseases of the Endocrine System | 4 | 20 |
 | **17** | Diseases of the Pancreas | 4 | 12 |
 | **18** | Diseases of the Stomach | 5 | 18 |
@@ -67,7 +67,7 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 | **29** | Toxicology, Poisoning, and Environmental Medicine | 6 | 45 |
 | **30** | Sleep Medicine and Sleep Disorders | 7 | 37 |
 | **31** | Pain Medicine and Headache Disorders | 6 | 43 |
-| **TOTAL** | **31 Chapters** | **199 Sections** | **862 Subsections** |
+| **TOTAL** | **31 Chapters** | **199 Sections** | **871 Subsections** |
 
 ---
 
