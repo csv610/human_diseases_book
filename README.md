@@ -1,5 +1,9 @@
 # 📘 All About Human Diseases: An Organ-Categorized Medical Reference
 
+<p align="center">
+  <img src="frontpage.png" alt="All About Human Diseases Cover" width="420" />
+</p>
+
 [![LaTeX Build](https://img.shields.io/badge/PDF-383%20Pages-blue.svg)](human_diseases.pdf)
 [![Diseases](https://img.shields.io/badge/Disease%20Entries-862-green.svg)](#-chapter-directory--content-breakdown)
 [![Organ Systems](https://img.shields.io/badge/Organ%20Systems-31-orange.svg)](#-chapter-directory--content-breakdown)
