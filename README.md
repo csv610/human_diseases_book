@@ -1,5 +1,3 @@
-# 📘 All About Human Diseases: An Organ-Categorized Medical Reference
-
 <p align="center">
   <img src="frontpage.png" alt="All About Human Diseases Cover" width="420" />
 </p>
