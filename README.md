@@ -2,20 +2,20 @@
   <img src="frontpage.png" alt="All About Human Diseases Cover" width="420" />
 </p>
 
-[![LaTeX Build](https://img.shields.io/badge/PDF-387%20Pages-blue.svg)](human_diseases.pdf)
-[![Diseases](https://img.shields.io/badge/Disease%20Entries-871-green.svg)](#-chapter-directory--content-breakdown)
+[![LaTeX Build](https://img.shields.io/badge/PDF-393%20Pages-blue.svg)](human_diseases.pdf)
+[![Diseases](https://img.shields.io/badge/Disease%20Entries-891-green.svg)](#-chapter-directory--content-breakdown)
 [![Organ Systems](https://img.shields.io/badge/Organ%20Systems-31-orange.svg)](#-chapter-directory--content-breakdown)
 [![License](https://img.shields.io/badge/License-Copyright%202026-red.svg)](#-author--copyright)
 
 **Author:** Chaman Singh Verma  
 **Repository:** [github.com/csv610/human_diseases_book](https://github.com/csv610/human_diseases_book)  
-**PDF Manuscript:** [human_diseases.pdf](human_diseases.pdf) *(387 Pages, 3.6 MB)*  
+**PDF Manuscript:** [human_diseases.pdf](human_diseases.pdf) *(393 Pages, 3.6 MB)*  
 
 ---
 
 ## 📖 Overview
 
-***All About Human Diseases: An Organ-Categorized Medical Reference*** is an encyclopedic, high-yield medical textbook providing comprehensive coverage of **871 human diseases and clinical conditions** categorized across **31 primary organ systems** and medical specialties.
+***All About Human Diseases: An Organ-Categorized Medical Reference*** is an encyclopedic, high-yield medical textbook providing comprehensive coverage of **891 human diseases and clinical conditions** categorized across **31 primary organ systems** and medical specialties.
 
 Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 1/2/3, PLAB, MRCP), physicians, and healthcare professionals, this volume unifies Internal Medicine, General Surgery, Pediatrics, Obstetrics & Gynecology, Neurology, Psychiatry, Dermatology, Toxicology, Geriatrics, and Pain Medicine into a single structured volume.
 
@@ -23,7 +23,7 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 
 ## ✨ Key Features & Unique Architecture
 
-- **🔤 Dual-Axis Organization**: Categorized by primary anatomical organ system macro-level, with **100% strict alphabetical sorting** of all 199 sections and 871 subsections.
+- **🔤 Dual-Axis Organization**: Categorized by primary anatomical organ system macro-level, with **100% strict alphabetical sorting** of all 199 sections and 891 subsections.
 - **🎯 Standardized Clinical Framework**: Every disease entry adheres to a non-redundant 6-part medical structure:
   $$\text{Etiology} \longrightarrow \text{Pathophysiology} \longrightarrow \text{Clinical Features} \longrightarrow \text{Diagnostics} \longrightarrow \text{Management} \longrightarrow \text{Prognosis}$$
 - **🧠 100% Section-Level Overviews**: Every single section features an introductory summary paragraph establishing physiological context and classification logic before listing specific diseases.
@@ -38,21 +38,21 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 | :-: | :--- | :-: | :-: |
 | **1** | Brain and Nervous System Diseases | 10 | 40 |
 | **2** | Diseases of the Eyes | 9 | 23 |
-| **3** | Diseases of the Ears | 4 | 14 |
-| **4** | Diseases of the Nose and Sinuses | 3 | 10 |
-| **5** | Diseases of the Throat and Oral Cavity | 4 | 14 |
+| **3** | Diseases of the Ears | 4 | 15 |
+| **4** | Diseases of the Nose and Sinuses | 3 | 14 |
+| **5** | Diseases of the Throat and Oral Cavity | 4 | 17 |
 | **6** | Diseases of the Heart and Cardiovascular System | 8 | 31 |
 | **7** | Diseases of the Lungs and Respiratory System | 6 | 24 |
 | **8** | Diseases of the Blood and Hematopoietic System | 5 | 27 |
-| **9** | Diseases of the Lymphatic and Immune System | 5 | 16 |
-| **10** | Diseases of the Spleen | 6 | 8 |
+| **9** | Diseases of the Lymphatic and Immune System | 5 | 18 |
+| **10** | Diseases of the Spleen | 6 | 12 |
 | **11** | Diseases of the Bones and Joints | 7 | 28 |
-| **12** | Diseases of the Muscles | 4 | 13 |
+| **12** | Diseases of the Muscles | 4 | 15 |
 | **13** | Systemic Autoimmune and Connective Tissue Diseases | 5 | 26 |
 | **14** | Diseases of the Skin | 10 | 35 |
 | **15** | Diseases of the Breast | 2 | 18 |
 | **16** | Diseases of the Endocrine System | 4 | 20 |
-| **17** | Diseases of the Pancreas | 4 | 12 |
+| **17** | Diseases of the Pancreas | 4 | 16 |
 | **18** | Diseases of the Stomach | 5 | 18 |
 | **19** | Diseases of the Intestines | 8 | 16 |
 | **20** | Diseases of the Liver | 7 | 18 |
@@ -67,7 +67,7 @@ Designed for medical students (MBBS, MD, DO), board exam candidates (USMLE Step 
 | **29** | Toxicology, Poisoning, and Environmental Medicine | 6 | 45 |
 | **30** | Sleep Medicine and Sleep Disorders | 7 | 37 |
 | **31** | Pain Medicine and Headache Disorders | 6 | 43 |
-| **TOTAL** | **31 Chapters** | **199 Sections** | **871 Subsections** |
+| **TOTAL** | **31 Chapters** | **199 Sections** | **891 Subsections** |
 
 ---
 
