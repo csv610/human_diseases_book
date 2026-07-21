@@ -1,13 +1,13 @@
 # 📘 All About Human Diseases: An Organ-Categorized Medical Reference
 
-[![LaTeX Build](https://img.shields.io/badge/PDF-383%20Pages-blue.svg)](main.pdf)
+[![LaTeX Build](https://img.shields.io/badge/PDF-383%20Pages-blue.svg)](human_diseases.pdf)
 [![Diseases](https://img.shields.io/badge/Disease%20Entries-862-green.svg)](#-chapter-directory--content-breakdown)
 [![Organ Systems](https://img.shields.io/badge/Organ%20Systems-31-orange.svg)](#-chapter-directory--content-breakdown)
 [![License](https://img.shields.io/badge/License-Copyright%202026-red.svg)](#-author--copyright)
 
 **Author:** Chaman Singh Verma  
 **Repository:** [github.com/csv610/human_diseases_book](https://github.com/csv610/human_diseases_book)  
-**PDF Manuscript:** [main.pdf](main.pdf) *(383 Pages, 3.6 MB)*  
+**PDF Manuscript:** [human_diseases.pdf](human_diseases.pdf) *(383 Pages, 3.6 MB)*  
 
 ---
 
@@ -79,8 +79,8 @@ human_diseases_book/
 │   ├── brain.tex
 │   └── ... (28 additional chapter files)
 ├── frontpage.png          # High-Resolution Book Cover Artwork
-├── main.tex               # Master LaTeX Source & Configuration File
-├── main.pdf               # Compiled Final Book PDF (383 pages)
+├── human_diseases.tex     # Master LaTeX Source & Configuration File
+├── human_diseases.pdf     # Compiled Final Book PDF (383 pages)
 ├── .gitignore             # Git Ignore Configuration for LaTeX Build Files
 └── README.md              # Project Documentation
 ```
@@ -103,13 +103,13 @@ git clone git@github.com:csv610/human_diseases_book.git
 cd human_diseases_book
 
 # Compile PDF (Pass 1)
-pdflatex -interaction=nonstopmode main.tex
+pdflatex -interaction=nonstopmode human_diseases.tex
 
 # Generate Index
-makeindex main.idx
+makeindex human_diseases.idx
 
 # Compile PDF (Pass 2 - Resolve Cross-References & Index)
-pdflatex -interaction=nonstopmode main.tex
+pdflatex -interaction=nonstopmode human_diseases.tex
 ```
 
 ---
