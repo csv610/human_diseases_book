@@ -1,0 +1,239 @@
+\documentclass[12pt,a4paper,twoside]{book}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1in,top=1.2in,bottom=1.2in]{geometry}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{makeidx}
+\makeindex
+
+\usepackage{pdfpages}
+
+% --- Disease label color ---
+\definecolor{diseasecolor}{RGB}{200,0,0}
+
+% --- Hyperref ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!70!black,
+    urlcolor=blue!70!black,
+    citecolor=blue!70!black,
+    bookmarks=true,
+    pdftitle={All About Human Diseases: An Organ-Categorized Medical Reference},
+    pdfauthor={Chaman Singh Verma},
+}
+
+% --- Page style ---
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\textit{\nouppercase{\leftmark}}}
+\fancyhead[RO]{\small\textit{\nouppercase{\rightmark}}}
+\fancyfoot[CE,CO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\setlength{\headheight}{15pt}
+
+\renewcommand{\chaptermark}[1]{\markboth{Chapter \thechapter\ --- #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[CE,CO]{\thepage}%
+  \renewcommand{\headrulewidth}{0pt}%
+  \renewcommand{\footrulewidth}{0.4pt}%
+}
+
+% --- Chapter title formatting ---
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\raggedright}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{-30pt}{40pt}
+
+% --- Section formatting ---
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{18pt}{12pt}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{1em}{}
+\titlespacing*{\subsection}{0pt}{12pt}{8pt}
+
+% --- Disease entry macro ---
+\newcommand{\disease}[1]{%  #1 = disease name
+  \par\addvspace{6pt}%
+  \noindent{\color{diseasecolor}\large\bfseries\hyperref[sec:\detokenize{#1}]{#1}}\par\nobreak%
+  \index{#1}%
+  \addvspace{2pt}%
+}
+
+% --- Disease label command ---
+\newcommand{\diseaselabel}[1]{%
+  \label{sec:\detokenize{#1}}%
+  \index{#1}%
+}
+
+
+
+% --- Suppress paragraph indent, set spacing ---
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt plus 1pt minus 1pt}
+
+% --- Title page ---
+\title{%
+  \vspace{-1cm}
+  {\Huge\bfseries All About Human Diseases}\\[1em]
+  {\Large\itshape An Organ-Categorized Medical Reference}\\[0.5em]
+  {\normalsize A Complete Catalog of Diseases and Disorders\\
+   Affecting Each Organ and System of the Human Body}
+}
+\author{Chaman Singh Verma}
+\date{\today}
+
+\begin{document}
+
+\includepdf[pages=1]{frontpage.png}
+
+\frontmatter
+
+\maketitle
+\thispagestyle{empty}
+
+\vfill
+\begin{center}
+\rule{0.6\textwidth}{0.4pt}\\[12pt]
+{\small
+This comprehensive report catalogs human diseases organized by the primary
+organ or organ system affected. Each chapter provides an overview of the
+organ's anatomy and function, followed by detailed entries covering the
+most significant diseases---their etiology, pathophysiology, clinical
+presentation, diagnosis, and treatment. The report spans all major organ
+systems of the human body, from the brain and nervous system to the
+reproductive organs, providing a thorough medical reference for students,
+educators, and practitioners.}
+\\[12pt]
+\rule{0.6\textwidth}{0.4pt}
+\end{center}
+\vfill
+
+\tableofcontents
+
+
+\mainmatter
+
+% ============================================================
+\input{chapters/brain}
+% ============================================================
+\input{chapters/eyes}
+% ============================================================
+\input{chapters/ears}
+% ============================================================
+\input{chapters/nose}
+% ============================================================
+\input{chapters/throat}
+% ============================================================
+\input{chapters/heart}
+% ============================================================
+\input{chapters/lungs}
+% ============================================================
+\input{chapters/liver}
+% ============================================================
+\input{chapters/stomach}
+% ============================================================
+\input{chapters/intestines}
+% ============================================================
+\input{chapters/pancreas}
+% ============================================================
+\input{chapters/kidneys}
+% ============================================================
+\input{chapters/spleen}
+% ============================================================
+\input{chapters/skin}
+% ============================================================
+\input{chapters/bones}
+% ============================================================
+\input{chapters/muscles}
+% ============================================================
+\input{chapters/blood}
+% ============================================================
+\input{chapters/lymph}
+% ============================================================
+\input{chapters/endocrine}
+% ============================================================
+\input{chapters/reproductive}
+% ============================================================
+\input{chapters/breast}
+% ============================================================
+\input{chapters/connective_tissue}
+% ============================================================
+\input{chapters/psychiatric}
+% ============================================================
+\input{chapters/infectious}
+% ============================================================
+\input{chapters/nutrition}
+% ============================================================
+\input{chapters/pediatric}
+% ============================================================
+\input{chapters/obstetric}
+% ============================================================
+\input{chapters/geriatric}
+% ============================================================
+\input{chapters/toxicology}
+% ============================================================
+\input{chapters/sleep}
+% ============================================================
+\input{chapters/pain}
+% ============================================================
+
+% --- Back matter ---
+\backmatter
+
+\chapter*{Abbreviations Used}
+\addcontentsline{toc}{chapter}{Abbreviations Used}
+\noindent
+\begin{tabularx}{\textwidth}{lX}
+\toprule
+\textbf{Abbreviation} & \textbf{Full Form} \\
+\midrule
+DNA  & Deoxyribonucleic acid \\
+RNA  & Ribonucleic acid \\
+CT   & Computed tomography \\
+MRI  & Magnetic resonance imaging \\
+ECG/EKG & Electrocardiogram \\
+EEG  & Electroencephalogram \\
+EMG  & Electromyography \\
+ANA  & Antinuclear antibody \\
+HIV  & Human immunodeficiency virus \\
+HPV  & Human papillomavirus \\
+TNF  & Tumor necrosis factor \\
+IL   & Interleukin \\
+Ig   & Immunoglobulin \\
+CBC  & Complete blood count \\
+CMP  & Comprehensive metabolic panel \\
+TSH  & Thyroid-stimulating hormone \\
+ACTH & Adrenocorticotropic hormone \\
+BMR  & Basal metabolic rate \\
+GFR  & Glomerular filtration rate \\
+FEV1 & Forced expiratory volume in 1 second \\
+\bottomrule
+\end{tabularx}
+
+\end{document}

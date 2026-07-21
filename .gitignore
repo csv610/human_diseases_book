@@ -1,0 +1,16 @@
+# TeX build artifacts
+*.aux
+*.log
+*.toc
+*.out
+*.idx
+*.ilg
+*.ind
+*.lof
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Preview renders
+*preview*.png
+*preview*.jpg
