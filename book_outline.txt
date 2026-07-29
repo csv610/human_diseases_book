@@ -1,0 +1,1152 @@
+
+# Chapter: Brain and Nervous System Diseases (brain.tex)
+  ## Section: Brain Tumors
+    - Glioblastoma
+    - Medulloblastoma
+    - Meningioma
+    - Neurofibromatosis Type 1
+    - Pituitary Adenoma
+    - Schwannoma
+  ## Section: Cerebrovascular Diseases
+    - Cerebral Aneurysm
+    - Cerebral Venous Thrombosis
+    - Hemorrhagic Stroke
+    - Ischemic Stroke
+    - Transient Ischemic Attack
+  ## Section: Demyelinating and White Matter Diseases
+    - Central Pontine Myelinolysis
+    - Guillain-Barr\'{e
+  ## Section: Disorders of Consciousness
+    - Coma
+    - Persistent Vegetative State
+  ## Section: Epilepsy and Seizure Disorders
+    - Epilepsy
+    - Febrile Seizures
+    - Temporal Lobe Epilepsy
+  ## Section: Infections of the Brain
+    - Bacterial Meningitis
+    - Brain Abscess
+    - Neurocysticercosis
+    - Viral Encephalitis
+  ## Section: Neurodegenerative Diseases
+    - Alzheimer's Disease
+    - Amyotrophic Lateral Sclerosis
+    - Dystonia
+    - Essential Tremor
+    - Friedreich's Ataxia
+    - Frontotemporal Dementia
+    - Huntington's Disease
+    - Motor Neuron Disease
+    - Multiple Sclerosis
+    - Parkinson's Disease
+  ## Section: Peripheral Nerve Diseases
+    - Bell's Palsy
+    - Carpal Tunnel Syndrome
+    - Charcot-Marie-Tooth Disease
+  ## Section: Traumatic Brain Injury
+    - Chronic Traumatic Encephalopathy
+    - Concussion
+  ## Section: Vestibular Disorders
+    - Epidural Hematoma
+    - Subdural Hematoma
+    - Vertigo
+
+# Chapter: Diseases of the Eyes (eyes.tex)
+  ## Section: Cataract
+    - Age-Related Cataract
+    - Congenital Cataract
+  ## Section: Corneal Diseases
+    - Fuchs' Endothelial Dystrophy
+    - Keratitis
+    - Keratoconus
+  ## Section: Dry Eye Disease
+    - Dry Eye Disease
+  ## Section: Glaucoma
+    - Glaucoma in Children
+    - Primary Angle-Closure Glaucoma
+    - Primary Open-Angle Glaucoma
+  ## Section: Inflammatory and Autoimmune Eye Diseases
+    - Scleritis
+    - Uveitis
+  ## Section: Ocular Surface Disorders
+    - Conjunctivitis
+  ## Section: Refractive Errors
+    - Astigmatism
+    - Hyperopia
+    - Myopia
+    - Presbyopia
+  ## Section: Retinal Diseases
+    - Age-Related Macular Degeneration
+    - Diabetic Retinopathy
+    - Retinal Detachment
+    - Retinitis Pigmentosa
+    - Retinopathy of Prematurity
+  ## Section: Strabismus and Amblyopia
+    - Amblyopia
+    - Strabismus
+
+# Chapter: Diseases of the Ears (ears.tex)
+  ## Section: Inner Ear Diseases
+    - Acoustic Neuroma (Vestibular Schwannoma)
+    - Benign Paroxysmal Positional Vertigo
+    - Labyrinthitis
+    - Ménière's Disease
+    - Sudden Sensorineural Hearing Loss
+    - Vestibular Neuritis
+  ## Section: Middle Ear Diseases
+    - Acute Otitis Media
+    - Chronic Otitis Media
+    - Otosclerosis
+    - Tympanic Membrane Perforation
+  ## Section: Outer Ear Diseases
+    - Cerumen Impaction
+    - Chondrodermatitis Nodularis Helicis
+    - Otitis Externa
+  ## Section: Tinnitus
+    - Barotrauma of the Ear
+    - Tinnitus
+
+# Chapter: Diseases of the Nose and Sinuses (nose.tex)
+  ## Section: Allergic and Inflammatory Conditions
+    - Allergic Rhinitis
+    - Chronic Rhinosinusitis
+    - Nasal Polyps
+    - Non-Allergic Rhinitis
+  ## Section: Infectious Conditions
+    - Acute Bacterial Sinusitis
+    - Epistaxis
+    - Fungal Sinusitis
+  ## Section: Structural Disorders
+    - Allergic Fungal Rhinosinusitis (AFRS)
+    - Choanal Atresia
+    - Deviated Nasal Septum
+    - Esthesioneuroblastoma
+    - Inverted Papilloma
+    - Juvenile Nasopharyngeal Angiofibroma (JNA)
+    - Nasal Fracture
+
+# Chapter: Diseases of the Throat and Oral Cavity (throat.tex)
+  ## Section: Infectious Diseases
+    - Diphtheria
+    - Laryngitis
+    - Pharyngitis
+    - Tonsillitis
+  ## Section: Obstructive and Sleep-Related Disorders
+    - Obstructive Sleep Apnea
+    - Tonsillar Hypertrophy
+  ## Section: Oral Cavity Diseases
+    - Aphthous Ulcers (Canker Sores)
+    - Gingivitis and Periodontitis
+    - Oral Candidiasis
+    - Oral Leukoplakia
+    - Oral Lichen Planus
+    - Oral Squamous Cell Carcinoma
+  ## Section: Voice Disorders
+    - Epiglottitis
+    - Ludwig Angina
+    - Vocal Cord Nodules
+    - Vocal Cord Paralysis
+    - Zenker Diverticulum
+
+# Chapter: Diseases of the Heart and Cardiovascular System (heart.tex)
+  ## Section: Cardiac Arrhythmias
+    - Atrial Fibrillation
+    - Brugada Syndrome
+    - Long QT Syndrome
+    - Sick Sinus Syndrome
+    - Ventricular Tachycardia
+  ## Section: Cardiomyopathies
+    - Dilated Cardiomyopathy
+    - Hypertrophic Cardiomyopathy
+    - Myocarditis
+    - Restrictive Cardiomyopathy
+  ## Section: Coronary Artery Disease
+    - Angina Pectoris
+    - Ischemic Cardiomyopathy
+    - Myocardial Infarction
+  ## Section: Heart Failure
+    - Acute Decompensated Heart Failure
+    - Heart Failure with Preserved Ejection Fraction
+    - Heart Failure with Reduced Ejection Fraction
+  ## Section: Infective Endocarditis
+    - Infective Endocarditis
+  ## Section: Pericardial Disease
+    - Cardiac Tamponade
+    - Constrictive Pericarditis
+    - Pericarditis
+  ## Section: Peripheral Vascular Diseases
+    - Peripheral Arterial Disease
+  ## Section: Valvular Heart Disease
+    - Aortic Dissection
+    - Aortic Regurgitation
+    - Aortic Stenosis
+    - Coarctation of the Aorta
+    - Hypertension
+    - Mitral Regurgitation
+    - Mitral Stenosis
+    - Mitral Valve Prolapse
+    - Peripheral Artery Disease
+    - Rheumatic Heart Disease
+    - Tricuspid Regurgitation
+
+# Chapter: Diseases of the Lungs and Respiratory System (lungs.tex)
+  ## Section: Acute Respiratory Infections
+    - Acute Bronchitis
+    - COVID-19
+    - Influenza
+    - Pleurisy
+  ## Section: Lung Neoplasms
+    - Lung Cancer
+    - Mesothelioma
+  ## Section: Obstructive Lung Diseases
+    - Asthma
+    - Asthma-COPD Overlap
+    - Bronchiectasis
+    - Chronic Obstructive Pulmonary Disease
+    - Cystic Fibrosis
+  ## Section: Pulmonary Vascular Diseases
+    - Pulmonary Embolism
+    - Pulmonary Hypertension
+  ## Section: Respiratory Infections
+    - Community-Acquired Pneumonia
+    - Empyema
+    - Lung Abscess
+    - Tuberculosis
+  ## Section: Restrictive Lung Diseases
+    - Asbestosis
+    - Atelectasis
+    - Idiopathic Pulmonary Fibrosis
+    - Pneumoconiosis
+    - Pneumothorax
+    - Sarcoidosis
+    - Silicosis
+
+# Chapter: Diseases of the Liver (liver.tex)
+  ## Section: Alcoholic Liver Disease
+    - Alcoholic Liver Disease
+  ## Section: Cirrhosis
+    - Ascites
+    - Cirrhosis
+    - Hepatic Encephalopathy
+  ## Section: Hepatic Neoplasms
+    - Hepatocellular Carcinoma
+  ## Section: Hepatitis
+    - Autoimmune Hepatitis
+    - Hepatitis A
+    - Hepatitis B
+    - Hepatitis C
+    - Hepatitis D
+    - Hepatitis E
+  ## Section: Hereditary and Metabolic Liver Diseases
+    - Hereditary Hemochromatosis
+  ## Section: Metabolic and Fatty Liver Disease
+    - Non-Alcoholic Fatty Liver Disease
+    - Wilson's Disease
+  ## Section: Vascular Liver Diseases
+    - Budd-Chiari Syndrome
+    - Portal Hypertension
+    - Primary Biliary Cholangitis
+    - Primary Sclerosing Cholangitis
+
+# Chapter: Diseases of the Stomach (stomach.tex)
+  ## Section: Gastric Neoplasms
+    - Gastric Adenocarcinoma
+    - Gastric Lymphoma
+    - Gastrointestinal Stromal Tumor
+  ## Section: Gastritis
+    - Acute Gastritis
+    - Chronic Gastritis
+    - Helicobacter Pylori Infection
+  ## Section: Gastroesophageal Reflux Disease
+    - Gastroesophageal Reflux Disease
+  ## Section: Gastroparesis
+    - Gastroparesis
+  ## Section: Peptic Ulcer Disease
+    - Achalasia
+    - Barrett Esophagus
+    - Cholecystitis
+    - Cholelithiasis
+    - Duodenal Ulcer
+    - Esophageal Varices
+    - Gastric Ulcer
+    - Peptic Ulcer Bleeding
+    - Peptic Ulcer Disease
+    - Zollinger-Ellison Syndrome
+
+# Chapter: Diseases of the Intestines (intestines.tex)
+  ## Section: Acute Abdominal Emergencies
+    - Appendicitis
+  ## Section: Celiac Disease
+    - Celiac Disease
+  ## Section: Colorectal Neoplasms
+    - Colorectal Adenoma
+    - Colorectal Cancer
+    - Familial Adenomatous Polyposis
+    - Lynch Syndrome
+  ## Section: Diverticular Disease
+    - Diverticulitis
+    - Diverticulosis
+  ## Section: Functional Gastrointestinal Disorders
+    - Irritable Bowel Syndrome
+  ## Section: Inflammatory Bowel Disease
+    - Crohn's Disease
+    - Indeterminate Colitis
+    - Ulcerative Colitis
+  ## Section: Intestinal Obstruction
+    - Large Bowel Obstruction
+    - Small Bowel Obstruction
+  ## Section: Short Bowel Syndrome
+    - Anal Fissure
+    - Short Bowel Syndrome
+
+# Chapter: Diseases of the Pancreas (pancreas.tex)
+  ## Section: Diabetes Mellitus
+    - Diabetic Ketoacidosis
+    - Gestational Diabetes Mellitus
+    - Hyperosmolar Hyperglycemic State
+    - Hypoglycemia
+    - Type 1 Diabetes Mellitus
+    - Type 2 Diabetes Mellitus
+  ## Section: Pancreatic Exocrine Insufficiency
+    - Pancreatic Exocrine Insufficiency
+  ## Section: Pancreatic Neoplasms
+    - Pancreatic Adenocarcinoma
+    - Pancreatic Neuroendocrine Tumors
+  ## Section: Pancreatitis
+    - Acute Pancreatitis
+    - Autoimmune Pancreatitis
+    - Autoimmune Pancreatitis (AIP)
+    - Chronic Pancreatitis
+    - Intraductal Papillary Mucinous Neoplasm (IPMN)
+    - Nesidioblastosis and Congenital Hyperinsulinism
+    - Pancreatic Pseudocyst
+
+# Chapter: Diseases of the Kidneys and Urinary System (kidneys.tex)
+  ## Section: Acute Kidney Injury
+    - Acute Kidney Injury
+  ## Section: Chronic Kidney Disease
+    - Chronic Kidney Disease
+    - End-Stage Renal Disease
+    - Renal Osteodystrophy
+  ## Section: Glomerular Diseases
+    - Diabetic Nephropathy
+    - Focal Segmental Glomerulosclerosis
+    - IgA Nephropathy
+    - Membranous Nephropathy
+    - Minimal Change Disease
+  ## Section: Kidney Stones
+    - Nephrolithiasis
+  ## Section: Lower Urinary Tract Disorders
+    - Urinary Incontinence
+  ## Section: Polycystic Kidney Disease
+    - Autosomal Dominant Polycystic Kidney Disease
+  ## Section: Renal and Urologic Neoplasms
+    - Bladder Cancer
+    - Kidney Cancer (Renal Cell Carcinoma)
+  ## Section: Renal Tubular Disorders
+    - Fanconi Syndrome
+    - Renal Tubular Acidosis
+  ## Section: Tubulointerstitial Diseases
+    - Acute Interstitial Nephritis
+    - Chronic Tubulointerstitial Nephritis
+  ## Section: Urinary Tract Infections
+    - Cystitis
+    - Nephritic Syndrome
+    - Nephrotic Syndrome
+    - Pyelonephritis
+    - Urosepsis
+
+# Chapter: Diseases of the Spleen (spleen.tex)
+  ## Section: Asplenia and Functional Asplenia
+    - Asplenia
+  ## Section: Hypersplenism
+    - Hypersplenism
+  ## Section: Splenic Enlargement (Splenomegaly)
+    - Massive Splenomegaly
+    - Splenomegaly
+  ## Section: Splenic Infarction
+    - Splenic Infarction
+  ## Section: Splenic Neoplasms
+    - Splenic Cysts
+    - Splenic Lymphoma
+  ## Section: Splenic Rupture and Trauma
+    - Asplenia and Hyposplenism
+    - Splenic Abscess
+    - Splenic Artery Aneurysm
+    - Splenic Cyst
+    - Splenic Rupture
+
+# Chapter: Diseases of the Skin (skin.tex)
+  ## Section: Acne and Related Disorders
+    - Acne Vulgaris
+    - Rosacea
+  ## Section: Autoimmune Blistering Diseases
+    - Bullous Pemphigoid
+    - Dermatitis Herpetiformis
+    - Epidermolysis Bullosa
+  ## Section: Connective Tissue Skin Diseases
+    - Dermatomyositis
+    - Systemic Lupus Erythematosus (Skin Manifestations)
+  ## Section: Cutaneous Infections
+    - Head Lice (Pediculosis Capitis)
+    - Impetigo
+    - Scabies
+    - Tinea Infections
+    - Wound Infections and Surgical Site Infections
+  ## Section: Eczematous Dermatoses
+    - Atopic Dermatitis
+    - Contact Dermatitis
+    - Nummular Dermatitis
+    - Seborrheic Dermatitis
+  ## Section: Pigmentary Disorders
+    - Melasma
+    - Oculocutaneous Albinism
+    - Vitiligo
+  ## Section: Psoriasis
+    - Psoriasis
+    - Psoriatic Arthritis
+  ## Section: Skin Cancer
+    - Actinic Keratosis
+    - Basal Cell Carcinoma
+    - Melanoma
+    - Squamous Cell Carcinoma
+  ## Section: Skin Infections
+    - Abscess
+    - Cellulitis
+    - Herpes Simplex
+    - Herpes Zoster
+    - Molluscum Contagiosum
+    - Warts
+  ## Section: Urticaria and Related Disorders
+    - Alopecia Areata
+    - Pemphigus Vulgaris
+    - Pilonidal Sinus
+    - Urticaria
+
+# Chapter: Diseases of the Bones and Joints (bones.tex)
+  ## Section: Bone Infections
+    - Osteomyelitis
+    - Septic Arthritis
+  ## Section: Bone Tumors
+    - Ewing Sarcoma
+    - Multiple Myeloma (Bone Manifestations)
+    - Osteosarcoma
+  ## Section: Degenerative Joint Disease
+    - Osteoarthritis
+  ## Section: Inflammatory Arthropathies
+    - Ankylosing Spondylitis
+    - Gout
+    - Psoriatic Arthritis
+    - Reactive Arthritis
+    - Rheumatoid Arthritis
+  ## Section: Metabolic Bone Diseases
+    - Osteogenesis Imperfecta
+    - Osteoporosis
+    - Paget's Disease of Bone
+    - Rickets and Osteomalacia
+  ## Section: Other Bone and Joint Conditions
+    - Achondroplasia
+    - Fibrous Dysplasia
+    - Fractures
+    - Kyphosis
+    - Scoliosis
+  ## Section: Soft Tissue and Overuse Conditions
+    - Adhesive Capsulitis
+    - Bursitis
+    - Calcium Pyrophosphate Deposition Disease
+    - Dupuytren Contracture
+    - Hallux Valgus
+    - Morton Neuroma
+    - Plantar Fasciitis
+    - Trigger Finger
+
+# Chapter: Diseases of the Muscles (muscles.tex)
+  ## Section: Channelopathies and Metabolic Myopathies
+    - McArdle Disease
+    - Myasthenia Gravis
+    - Periodic Paralysis
+  ## Section: Inflammatory Myopathies
+    - Dermatomyositis
+    - Inclusion Body Myositis
+    - Polymyositis
+  ## Section: Muscle Injuries and Conditions
+    - Compartment Syndrome
+    - Fibromyalgia
+    - Rhabdomyolysis
+  ## Section: Muscular Dystrophies
+    - Becker Muscular Dystrophy
+    - Duchenne Muscular Dystrophy
+    - Facioscapulohumeral Muscular Dystrophy
+    - Lambert-Eaton Myasthenic Syndrome (LEMS)
+    - Malignant Hyperthermia
+    - Myotonic Dystrophy
+
+# Chapter: Diseases of the Blood and Hematopoietic System (blood.tex)
+  ## Section: Anemias
+    - Aplastic Anemia
+    - Folate Deficiency Anemia
+    - Hemolytic Anemias
+    - Iron Deficiency Anemia
+    - Sideroblastic Anemia
+    - Vitamin B12 Deficiency Anemia
+  ## Section: Coagulation Disorders
+    - Disseminated Intravascular Coagulation
+    - Hemophilia A
+    - Hemophilia B
+    - Immune Thrombocytopenic Purpura
+    - Thrombotic Thrombocytopenic Purpura
+    - Von Willebrand Disease
+  ## Section: Hematologic Malignancies
+    - Acute Lymphoblastic Leukemia
+    - Acute Myeloid Leukemia
+    - Chronic Lymphocytic Leukemia
+    - Essential Thrombocythemia
+    - Hodgkin Lymphoma
+    - Multiple Myeloma
+    - Myelodysplastic Syndromes
+    - Myelofibrosis
+    - Non-Hodgkin Lymphoma
+    - Polycythemia Vera
+  ## Section: Hemoglobinopathies
+    - Hereditary Spherocytosis
+    - Methemoglobinemia
+    - Sickle Cell Disease
+    - Thalassemia
+  ## Section: Thrombotic Disorders
+    - Deep Vein Thrombosis
+
+# Chapter: Diseases of the Lymphatic and Immune System (lymph.tex)
+  ## Section: Autoimmune Diseases
+    - Antiphospholipid Syndrome
+    - Behçet's Disease
+    - Rheumatoid Arthritis
+    - Sarcoidosis
+    - Sjögren's Syndrome
+    - Systemic Lupus Erythematosus
+  ## Section: Chronic Fatigue Syndrome / Myalgic Encephalomyelitis
+    - Chronic Fatigue Syndrome
+  ## Section: Hypersensitivity Disorders
+    - Anaphylaxis
+    - Drug Hypersensitivity
+    - Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
+  ## Section: Immunodeficiency Disorders
+    - Common Variable Immunodeficiency
+    - DiGeorge Syndrome
+    - Hereditary Angioedema
+    - HIV/AIDS
+    - Severe Combined Immunodeficiency
+  ## Section: Infectious Mononucleosis
+    - Infectious Mononucleosis
+    - Kikuchi-Fujimoto Disease
+    - Rosai-Dorfman Disease
+
+# Chapter: Diseases of the Endocrine System (endocrine.tex)
+  ## Section: Adrenal Diseases
+    - Addison's Disease
+    - Adrenal Incidentaloma
+    - Cushing's Syndrome
+    - Pheochromocytoma
+  ## Section: Parathyroid Diseases
+    - Hyperparathyroidism
+    - Hypoparathyroidism
+    - Multiple Endocrine Neoplasia
+  ## Section: Pituitary Diseases
+    - Acromegaly
+    - Diabetes Insipidus
+    - Hyperprolactinemia
+    - Hypopituitarism
+    - SIADH
+  ## Section: Thyroid Diseases
+    - Addison Disease
+    - Cushing Syndrome
+    - Graves Disease
+    - Hashimoto Thyroiditis
+    - Hyperthyroidism
+    - Hypothyroidism
+    - Thyroid Nodules and Cancer
+    - Thyroiditis
+
+# Chapter: Diseases of the Reproductive Organs (reproductive.tex)
+  ## Section: Female Reproductive Diseases
+    - Atrophic Vaginitis (Genitourinary Syndrome of Menopause)
+    - Cervical Cancer
+    - Endometriosis
+    - Ovarian Cancer
+    - Pelvic Inflammatory Disease
+    - Polycystic Ovary Syndrome
+    - Uterine Fibroids
+    - Vaginal Cancer
+    - Vulvar Cancer
+  ## Section: Male Reproductive Diseases
+    - Balanitis and Balanoposthitis
+    - Benign Prostatic Hyperplasia
+    - Erectile Dysfunction
+    - Male Infertility
+    - Penile Cancer
+    - Penile Fracture
+    - Peyronie's Disease
+    - Phimosis and Paraphimosis
+    - Priapism
+    - Prostate Cancer
+    - Testicular Cancer
+
+# Chapter: Diseases of the Breast (breast.tex)
+  ## Section: Benign Breast Conditions
+    - Fibroadenoma
+    - Fibrocystic Changes
+    - Gynecomastia
+    - Mastitis and Breast Abscess
+    - Phyllodes Tumor
+  ## Section: Breast Cancer
+    - Breast Cancer
+    - Ductal Carcinoma In Situ (DCIS)
+    - Fat Necrosis of the Breast
+    - Galactocele
+    - Idiopathic Granulomatous Mastitis
+    - Inflammatory Breast Cancer
+    - Intraductal Papilloma
+    - Invasive Lobular Carcinoma (ILC)
+    - Lobular Carcinoma In Situ (LCIS)
+    - Male Breast Cancer
+    - Mammary Duct Ectasia
+    - Paget's Disease of the Nipple
+    - Triple-Negative Breast Cancer (TNBC)
+
+# Chapter: Systemic Autoimmune and Connective Tissue Diseases (connective_tissue.tex)
+  ## Section: Other Systemic Autoimmune Disorders
+    - Adult-Onset Still's Disease
+    - Amyloidosis
+    - Hemophagocytic Lymphohistiocytosis and Macrophage Activation Syndrome
+    - Periodic Fever Syndromes
+    - Sarcoidosis
+  ## Section: Small Vessel Vasculitis
+    - Anti-GBM Disease
+    - Cryoglobulinemic Vasculitis
+    - Eosinophilic Granulomatosis with Polyangiitis
+    - Granulomatosis with Polyangiitis
+    - IgA Vasculitis
+    - Microscopic Polyangiitis
+  ## Section: Systemic Connective Tissue Diseases
+    - Ehlers-Danlos Syndrome
+    - Eosinophilic Fasciitis (Shulman Syndrome)
+    - IgG4-Related Disease
+    - Marfan Syndrome
+    - Mixed Connective Tissue Disease
+    - Polymyalgia Rheumatica
+    - Relapsing Polychondritis
+    - Systemic Sclerosis (Scleroderma)
+    - Undifferentiated Connective Tissue Disease
+  ## Section: Variable Vessel Vasculitis
+    - Behçet's Disease
+    - Cogan's Syndrome
+  ## Section: Vasculitis (Systemic Vasculitides)
+    - Giant Cell Arteritis
+    - Kawasaki Disease
+    - Polyarteritis Nodosa
+    - Takayasu Arteritis
+
+# Chapter: Psychiatric and Mental Health Disorders (psychiatric.tex)
+  ## Section: Anxiety Disorders
+    - Agoraphobia
+    - Generalized Anxiety Disorder (GAD)
+    - Panic Disorder / Panic Attacks
+    - Social Anxiety Disorder (Social Phobia)
+    - Specific Phobias
+  ## Section: Disruptive, Impulse-Control, and Conduct Disorders
+  ## Section: Dissociative Disorders
+    - Dissociative Amnesia
+    - Dissociative Identity Disorder
+  ## Section: Eating Disorders
+    - Anorexia Nervosa
+    - Binge-Eating Disorder
+    - Bulimia Nervosa
+  ## Section: Mood Disorders
+    - Bipolar I Disorder
+    - Bipolar II Disorder
+    - Cyclothymic Disorder
+    - Major Depressive Disorder (MDD)
+    - Persistent Depressive Disorder (Dysthymia)
+  ## Section: Neurodevelopmental Disorders
+    - Attention-Deficit/Hyperactivity Disorder (ADHD)
+    - Autism Spectrum Disorder (ASD)
+  ## Section: Obsessive-Compulsive and Related Disorders
+    - Body Dysmorphic Disorder
+    - Hoarding Disorder
+    - Obsessive-Compulsive Disorder (OCD)
+    - Tourette Syndrome
+  ## Section: Personality Disorders
+    - Antisocial Personality Disorder (ASPD)
+    - Borderline Personality Disorder (BPD)
+    - Narcissistic Personality Disorder
+  ## Section: Schizophrenia Spectrum and Other Psychotic Disorders
+    - Delusional Disorder
+    - Schizoaffective Disorder
+    - Schizophrenia
+  ## Section: Sleep-Wake Disorders
+  ## Section: Somatic Symptom and Related Disorders
+    - Illness Anxiety Disorder (Hypochondriasis)
+    - Somatic Symptom Disorder
+  ## Section: Substance-Related and Addictive Disorders
+    - Alcohol Use Disorder
+    - Opioid Use Disorder
+    - Stimulant Use Disorder (Cocaine, Amphetamines)
+  ## Section: Trauma and Stressor-Related Disorders
+    - Acute Stress Disorder
+    - Adjustment Disorder
+    - Post-Traumatic Stress Disorder (PTSD)
+
+# Chapter: Systemic Infectious Diseases (infectious.tex)
+  ## Section: Bacterial Infections
+    - Anthrax
+    - Botulism (Clostridium botulinum)
+    - Brucellosis
+    - Cholera (Vibrio cholerae)
+    - Diphtheria (Corynebacterium diphtheriae)
+    - Gas Gangrene (Clostridial Myonecrosis)
+    - Leprosy (Hansen's Disease)
+    - Leptospirosis
+    - Lyme Disease (Borrelia burgdorferi)
+    - Necrotizing Fasciitis
+    - Pertussis (Whooping Cough)
+    - Plague (Yersinia pestis)
+    - Syphilis (Treponema pallidum)
+    - Tetanus (Clostridium tetani)
+    - Tuberculosis (Extrapulmonary)
+    - Typhoid Fever (Salmonella typhi)
+  ## Section: Foodborne and Waterborne Parasites
+    - Cyclospora cayetanensis
+  ## Section: Fungal Infections (Systemic)
+    - Aspergillosis (Invasive)
+    - Blastomycosis
+    - Candida auris
+    - Candidiasis (Invasive / Systemic)
+    - Coccidioidomycosis (Valley Fever)
+    - Cryptococcosis
+    - Histoplasmosis
+    - Mucormycosis
+  ## Section: Parasitic Infections
+    - African Trypanosomiasis (Sleeping Sickness)
+    - Amebiasis (Entamoeba histolytica)
+    - Chagas Disease (American Trypanosomiasis)
+    - Filariasis (Lymphatic Filariasis)
+    - Giardiasis
+    - Hookworm / Soil-Transmitted Helminths
+    - Leishmaniasis
+    - Malaria (Plasmodium spp.)
+    - Primary Amebic Meningoencephalitis (Naegleria fowleri)
+    - Schistosomiasis
+    - Tapeworm Infections (Taeniasis / Cysticercosis)
+    - Toxoplasmosis
+  ## Section: Prion Diseases
+    - Creutzfeldt-Jakob Disease (CJD)
+    - Kuru
+    - Variant CJD (Mad Cow Disease)
+  ## Section: Sepsis and Septic Shock
+    - Sepsis and Septic Shock
+  ## Section: Sexually Transmitted Infections
+    - Chancroid
+    - Lymphogranuloma Venereum (LGV)
+    - Non-Gonococcal Urethritis (NGU)
+  ## Section: Tickborne and Vector-Borne Diseases
+    - Eastern Equine Encephalitis
+    - Ehrlichiosis
+    - Rocky Mountain Spotted Fever
+  ## Section: Viral Infections
+    - Arboviral Encephalitis
+    - Chickenpox
+    - Chikungunya
+    - Cytomegalovirus (CMV)
+    - Dengue Fever
+    - Ebola Virus Disease
+    - Epstein-Barr Virus / Infectious Mononucleosis (Systemic Aspects)
+    - Hand, Foot, and Mouth Disease
+    - Hantavirus Pulmonary Syndrome
+    - Human Metapneumovirus (hMPV)
+    - Marburg Virus
+    - Measles (Rubeola)
+    - Mpox
+    - Mumps
+    - Norovirus
+    - Poliomyelitis
+    - Rabies
+    - Rubella
+    - Scarlet Fever
+    - Varicella-Zoster (Systemic Aspects)
+    - West Nile Virus
+    - Yellow Fever
+    - Zika Virus
+
+# Chapter: Nutritional and Metabolic Disorders (nutrition.tex)
+  ## Section: Disorders of Lipid Metabolism
+    - Dysbetalipoproteinemia
+    - Familial Combined Hyperlipidemia
+    - Familial Hypercholesterolemia
+    - Lipoprotein(a) Disorders
+  ## Section: Inborn Errors of Metabolism
+    - Alkaptonuria --- Ochronosis
+    - Alpha-1 Antitrypsin Deficiency
+    - Galactosemia
+    - Glycogen Storage Diseases
+    - Hereditary Hemochromatosis
+    - Homocystinuria
+    - Lysosomal Storage Diseases
+    - Maple Syrup Urine Disease
+    - Mucopolysaccharidoses
+    - Organic Acidemias
+    - Phenylketonuria
+    - Porphyrias
+    - Urea Cycle Disorders
+  ## Section: Mineral Deficiency and Excess Disorders
+    - Calcium and Phosphorus Disorders
+    - Copper Deficiency and Excess
+    - Fluoride Excess --- Fluorosis
+    - Iodine Deficiency Disorders
+    - Iron Deficiency
+    - Selenium Deficiency
+    - Zinc Deficiency
+  ## Section: Obesity and Overweight
+    - Metabolic Syndrome
+    - Obesity
+    - Sarcopenic Obesity
+  ## Section: Protein-Energy Malnutrition
+    - Kwashiorkor
+    - Marasmic-Kwashiorkor
+    - Marasmus
+  ## Section: Vitamin Deficiency Disorders
+    - Vitamin A Deficiency
+    - Vitamin B1 (Thiamine) Deficiency --- Beriberi and Wernicke-Korsakoff Syndrome
+    - Vitamin B12 (Cobalamin) Deficiency
+    - Vitamin B2 (Riboflavin) Deficiency --- Ariboflavinosis
+    - Vitamin B3 (Niacin) Deficiency --- Pellagra
+    - Vitamin B6 (Pyridoxine) Deficiency
+    - Vitamin B7 (Biotin) Deficiency
+    - Vitamin B9 (Folate) Deficiency
+    - Vitamin C Deficiency --- Scurvy
+    - Vitamin D Deficiency --- Rickets and Osteomalacia
+    - Vitamin E Deficiency
+    - Vitamin K Deficiency
+
+# Chapter: Pediatric and Neonatal Diseases (pediatric.tex)
+  ## Section: Common Childhood Illnesses
+    - Neural Tube Defects
+    - Neuroblastoma
+    - Osteosarcoma in Children
+    - Patau Syndrome (Trisomy 13)
+    - Patent Ductus Arteriosus (PDA) in Prematurity
+    - Pediatric Appendicitis
+    - Perinatal Asphyxia / Hypoxic-Ischemic Encephalopathy (HIE)
+    - Periventricular Leukomalacia (PVL)
+    - Persistent Pulmonary Hypertension of the Newborn (PPHN)
+    - Prader-Willi Syndrome
+    - Preterm Birth
+  ## Section: Congenital Anomalies
+    - Down Syndrome (Trisomy 21)
+    - Edwards Syndrome (Trisomy 18)
+    - Epiglottitis
+    - Esophageal Atresia / Tracheoesophageal Fistula
+    - Ewing Sarcoma in Children
+    - Fragile X Syndrome
+    - Henoch-Sch\"onlein Purpura (IgA Vasculitis)
+    - Hepatoblastoma
+    - Hirschsprung Disease
+    - Human Metapneumovirus (hMPV)
+    - Hypertrophic Pyloric Stenosis
+  ## Section: Genetic and Chromosomal Disorders
+    - Intraventricular Hemorrhage (IVH)
+    - Intussusception
+    - Kawasaki Disease
+    - Klinefelter Syndrome (47,XXY)
+    - Meconium Aspiration Syndrome
+    - Necrotizing Enterocolitis (NEC)
+    - Neonatal Abstinence Syndrome
+    - Neonatal Hypoglycemia
+    - Neonatal Jaundice / Hyperbilirubinemia / Kernicterus
+    - Neonatal Sepsis (Early-Onset and Late-Onset)
+  ## Section: Pediatric Cancers
+    - Respiratory Distress Syndrome (RDS)
+    - Retinoblastoma
+    - Retinopathy of Prematurity (ROP)
+    - Rhabdomyosarcoma
+    - Rotavirus
+    - Turner Syndrome (45,X)
+    - Viral Exanthems
+    - Williams Syndrome
+    - Wilms Tumor (Nephroblastoma)
+  ## Section: Perinatal Conditions
+    - Congenital Diaphragmatic Hernia
+    - Congenital Heart Disease (Overview)
+    - Congenital Hip Dysplasia
+    - Congenital Talipes Equinovarus (Clubfoot)
+    - Cri-du-Chat Syndrome
+    - Croup (Laryngotracheobronchitis)
+    - Cryptorchidism (Undescended Testis)
+  ## Section: Prematurity and Its Complications
+    - Acute Lymphoblastic Leukemia (ALL) in Children
+    - Acute Otitis Media
+    - Ambiguous Genitalia / Disorders of Sex Development
+    - Angelman Syndrome
+    - Brain Tumors in Children
+    - Bronchiolitis (RSV)
+    - Bronchopulmonary Dysplasia (BPD)
+    - Cleft Lip and Palate
+
+# Chapter: Obstetric and Gynecologic Conditions (obstetric.tex)
+  ## Section: Gynecologic Cancers (Overview)
+    - Cervical Cancer
+    - Endometrial / Uterine Cancer
+    - Gestational Trophoblastic Disease
+    - Ovarian Cancer
+    - Vaginal Cancer
+    - Vulvar Cancer
+  ## Section: Gynecologic Infections
+    - Bacterial Vaginosis
+    - Cervicitis (Chlamydia, Gonorrhea)
+    - Genital Herpes (HSV)
+    - Genital Warts (HPV)
+    - Pelvic Inflammatory Disease
+    - Trichomoniasis
+    - Vulvovaginal Candidiasis
+  ## Section: Hemorrhagic Disorders of Pregnancy
+    - Ectopic Pregnancy
+    - Placenta Previa
+    - Placental Abruption
+    - Postpartum Hemorrhage
+    - Uterine Rupture
+    - Vasa Previa
+  ## Section: Hypertensive Disorders of Pregnancy
+    - Chronic Hypertension in Pregnancy
+    - Eclampsia
+    - Gestational Hypertension
+    - HELLP Syndrome
+    - Preeclampsia
+  ## Section: Menstrual and Hormonal Disorders
+    - Abnormal Uterine Bleeding
+    - Amenorrhea (Primary, Secondary)
+    - Dysmenorrhea
+    - Endometriosis
+    - Menopause / Perimenopause
+    - Polycystic Ovary Syndrome
+    - Premature Ovarian Insufficiency
+    - Premenstrual Syndrome / Premenstrual Dysphoric Disorder
+  ## Section: Pregnancy Loss
+    - Recurrent Pregnancy Loss
+    - Septic Abortion
+    - Spontaneous Abortion (Miscarriage)
+    - Stillbirth (Intrauterine Fetal Demise)
+  ## Section: Pregnancy-Related Conditions
+    - Gestational Diabetes Mellitus (Obstetric Focus)
+    - Hyperemesis Gravidarum
+    - Intrauterine Growth Restriction
+    - Multiple Gestation Complications
+    - Placenta Accreta Spectrum
+    - Polyhydramnios and Oligohydramnios
+    - Premature Rupture of Membranes
+    - Preterm Labor and Preterm Birth
+    - Rh Incompatibility / Hemolytic Disease of the Newborn
+  ## Section: Puerperal Complications
+    - Bartholin Cyst
+    - Mastitis (Puerperal)
+    - Postpartum Cardiomyopathy
+    - Postpartum Depression
+    - Postpartum Endometritis
+    - Postpartum Thyroiditis
+
+# Chapter: Geriatric Medicine and Aging-Related Disorders (geriatric.tex)
+  ## Section: Biology of Aging
+    - Cellular Senescence
+    - Frailty as a Syndrome
+    - Theories of Aging
+  ## Section: Cardiovascular Aging
+    - Aortic Stenosis
+    - Atrial Fibrillation in the Elderly
+    - Heart Failure with Preserved Ejection Fraction
+    - Hypertension in the Elderly
+  ## Section: Cognitive and Neurologic Disorders of Aging
+    - Alzheimer Disease
+    - Delirium
+    - Dementia with Lewy Bodies
+    - Frontotemporal Dementia
+    - Mild Cognitive Impairment
+    - Normal Pressure Hydrocephalus
+    - Parkinson Disease
+    - Vascular Dementia
+  ## Section: Falls and Mobility Disorders
+    - Falls in the Elderly
+    - Fear of Falling
+    - Gait Disorders
+  ## Section: Frailty and Geriatric Syndromes
+    - Failure to Thrive
+    - Frailty
+    - Malnutrition in the Elderly
+    - Pressure Ulcers
+    - Sarcopenia
+  ## Section: Geriatric Palliative and End-of-Life Care
+    - Advance Care Planning
+    - Ethical Issues
+    - Hospice Care
+    - Pain Management in the Elderly
+  ## Section: Incontinence
+    - Fecal Incontinence
+    - Urinary Incontinence
+  ## Section: Osteoporosis and Bone Health
+    - Age-Related Bone Loss
+    - Hip Fracture
+  ## Section: Polypharmacy and Adverse Drug Reactions
+    - Beers Criteria / STOPP/START Criteria
+    - Drug Interactions in the Elderly
+    - Medication Non-Adherence
+    - Polypharmacy
+  ## Section: Sensory Impairment in Aging
+    - Age-Related Macular Degeneration
+    - Presbycusis
+    - Presbyopia and Cataracts
+
+# Chapter: Toxicology, Poisoning, and Environmental Medicine (toxicology.tex)
+  ## Section: Drugs of Abuse
+    - Alcohol Intoxication and Withdrawal
+    - Cannabis Toxicity and Cannabinoid Hyperemesis Syndrome
+    - Hallucinogen Toxicity
+    - MDMA (Ecstasy) Toxicity
+    - Novel Synthetic Drugs
+    - Stimulant Overdose (Cocaine, Methamphetamine)
+  ## Section: Envenomation and Bites
+    - Hymenoptera Stings
+    - Mammalian Bites
+    - Marine Envenomation
+    - Scorpion Stings
+    - Snake Envenomation
+    - Spider Bites
+  ## Section: Environmental and Occupational Medicine
+    - Altitude Sickness
+    - Carbon Monoxide Poisoning
+    - Cyanide Toxicity
+    - Drowning (Submersion Injury)
+    - Electrical Injury and Lightning Strike
+    - Haff Disease
+    - Harmful Algal Blooms
+    - Heat Stroke and Hyperthermia
+    - Hydrogen Sulfide Toxicity
+    - Hypothermia
+    - Methyl Parathion and Other Organophosphate Insecticides
+    - Organophosphate and Carbamate Insecticide Poisoning
+    - Radiation Sickness (Acute Radiation Syndrome)
+  ## Section: General Approach to the Poisoned Patient
+    - Antidotes Overview
+    - Initial Stabilization and Decontamination
+    - Toxicokinetics and Toxicodynamics
+  ## Section: Heavy Metal Toxicity
+    - Arsenic Poisoning
+    - Cadmium Toxicity
+    - Iron Overdose
+    - Lead Poisoning (Plumbism)
+    - Mercury Toxicity
+  ## Section: Pharmaceutical Overdoses
+    - Acetaminophen (Paracetamol) Overdose
+    - Benzodiazepine Overdose
+    - Beta-Blocker Overdose
+    - Calcium Channel Blocker Overdose
+    - Digoxin Toxicity
+    - Lithium Toxicity
+    - Metformin Overdose
+    - Opioid Overdose
+    - Salicylate (Aspirin) Overdose
+    - SSRI Overdose and Serotonin Syndrome
+    - Theophylline Overdose
+    - Tricyclic Antidepressant (TCA) Overdose
+
+# Chapter: Sleep Medicine and Sleep Disorders (sleep.tex)
+  ## Section: Central Disorders of Hypersomnolence
+    - Idiopathic Hypersomnia
+    - Kleine-Levin Syndrome
+    - Narcolepsy Type 1
+    - Narcolepsy Type 2
+  ## Section: Circadian Rhythm Sleep-Wake Disorders
+    - Advanced Sleep-Wake Phase Disorder
+    - Delayed Sleep-Wake Phase Disorder
+    - Irregular Sleep-Wake Rhythm Disorder
+    - Jet Lag Disorder
+    - Non-24-Hour Sleep-Wake Rhythm Disorder
+    - Shift Work Sleep Disorder
+  ## Section: Insomnia
+    - Acute/Short-Term Insomnia
+    - Chronic Insomnia Disorder
+    - Idiopathic Insomnia
+    - Insomnia in the Context of Medical/Psychiatric Disorders
+    - Psychophysiologic Insomnia
+  ## Section: Parasomnias
+    - NREM Parasomnias: Confusional Arousals
+    - NREM Parasomnias: Sleep Terrors
+    - NREM Parasomnias: Sleep-Related Eating Disorder
+    - NREM Parasomnias: Sleepwalking
+    - Other Parasomnias: Exploding Head Syndrome
+    - Other Parasomnias: Sleep Enuresis
+    - Other Parasomnias: Sleep-Related Hallucinations
+    - REM Parasomnias: Nightmare Disorder
+    - REM Parasomnias: Recurrent Isolated Sleep Paralysis
+    - REM Parasomnias: REM Sleep Behavior Disorder
+  ## Section: Physiology of Sleep
+    - Circadian Rhythm Regulation
+    - Sleep Architecture Across the Lifespan
+    - Sleep Stages (NREM N1--N3, REM)
+  ## Section: Sleep-Related Breathing Disorders
+    - Central Sleep Apnea
+    - Complex Sleep Apnea
+    - Obesity Hypoventilation Syndrome
+    - Obstructive Sleep Apnea
+  ## Section: Sleep-Related Movement Disorders
+    - Periodic Limb Movement Disorder
+    - Propriospinal Myoclonus at Sleep Onset
+    - Restless Legs Syndrome
+    - Sleep-Related Bruxism
+    - Sleep-Related Rhythmic Movement Disorder
+
+# Chapter: Pain Medicine and Headache Disorders (pain.tex)
+  ## Section: Chronic Pain Syndromes
+    - Other Primary Headache Disorders
+    - Paroxysmal Hemicrania
+    - Phantom Limb Pain
+    - Physical and Rehabilitation Approaches
+    - Post-Traumatic Headache
+    - Postherpetic Neuralgia
+  ## Section: Headache Disorders --- Primary Headaches
+    - Cervicogenic Headache
+    - Chronic Low Back Pain
+    - Chronic Neck Pain
+    - Chronic Pain vs Acute Pain
+    - Chronic Pelvic Pain
+    - Cluster Headache
+    - Complex Regional Pain Syndrome
+    - Diabetic Peripheral Neuropathic Pain
+  ## Section: Headache Disorders --- Secondary Headaches
+    - Fibromyalgia
+    - Glossopharyngeal Neuralgia
+    - Headache Attributed to Giant Cell Arteritis
+    - Headache Attributed to Intracranial Hypertension
+    - Headache Attributed to Intracranial Hypotension
+    - Headache Attributed to Sinusitis
+    - Headache in Brain Tumors
+    - Hemicrania Continua
+    - Interventional Pain Management
+  ## Section: Neuropathic Pain Syndromes
+    - Medication Overuse Headache
+    - Migraine
+    - Myofascial Pain Syndrome
+    - New Daily Persistent Headache
+    - Nociception
+    - Non-Opioid Analgesics
+    - Occipital Neuralgia
+    - Opioid Analgesics
+    - Opioid Therapy Risks
+  ## Section: Pain Management Principles
+    - Psychological Approaches
+    - SUNCT and SUNA
+    - Temporomandibular Joint Disorders
+    - Tension-Type Headache
+    - Trigeminal Autonomic Cephalalgias
+    - Trigeminal Neuralgia
+    - Types of Pain
+    - WHO Analgesic Ladder
+  ## Section: Pain Physiology
+    - Adjuvant Analgesics
+    - Atypical Facial Pain
+    - Central Post-Stroke Pain
