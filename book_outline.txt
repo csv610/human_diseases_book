@@ -59,6 +59,7 @@
     - Fuchs' Endothelial Dystrophy
     - Keratitis
     - Keratoconus
+    - Pterygium
   ## Section: Dry Eye Disease
     - Dry Eye Disease
   ## Section: Glaucoma
@@ -69,7 +70,9 @@
     - Scleritis
     - Uveitis
   ## Section: Ocular Surface Disorders
+    - Blepharitis
     - Conjunctivitis
+    - Hordeolum (Stye) and Chalazion
   ## Section: Refractive Errors
     - Astigmatism
     - Hyperopia
@@ -151,9 +154,12 @@
 # Chapter: Diseases of the Heart and Cardiovascular System (heart.tex)
   ## Section: Cardiac Arrhythmias
     - Atrial Fibrillation
+    - Atrial Flutter
     - Brugada Syndrome
+    - Heart Block (AV Block)
     - Long QT Syndrome
     - Sick Sinus Syndrome
+    - Supraventricular Tachycardia (SVT)
     - Ventricular Tachycardia
   ## Section: Cardiomyopathies
     - Dilated Cardiomyopathy
@@ -192,6 +198,7 @@
 # Chapter: Diseases of the Lungs and Respiratory System (lungs.tex)
   ## Section: Acute Respiratory Infections
     - Acute Bronchitis
+    - Acute Respiratory Distress Syndrome (ARDS)
     - COVID-19
     - Influenza
     - Pleurisy
@@ -211,9 +218,11 @@
     - Community-Acquired Pneumonia
     - Empyema
     - Lung Abscess
+    - Pneumocystis jirovecii Pneumonia (PCP)
     - Tuberculosis
   ## Section: Restrictive Lung Diseases
     - Asbestosis
+    - Aspiration Pneumonia
     - Atelectasis
     - Idiopathic Pulmonary Fibrosis
     - Pneumoconiosis
@@ -267,6 +276,7 @@
     - Cholecystitis
     - Cholelithiasis
     - Duodenal Ulcer
+    - Eosinophilic Esophagitis
     - Esophageal Varices
     - Gastric Ulcer
     - Peptic Ulcer Bleeding
@@ -288,6 +298,7 @@
     - Diverticulosis
   ## Section: Functional Gastrointestinal Disorders
     - Irritable Bowel Syndrome
+    - Lactose Intolerance
   ## Section: Inflammatory Bowel Disease
     - Crohn's Disease
     - Indeterminate Colitis
@@ -298,6 +309,10 @@
   ## Section: Short Bowel Syndrome
     - Anal Fissure
     - Short Bowel Syndrome
+  ## Section: Anorectal Disorders
+    - Hemorrhoids
+  ## Section: Infectious Colitis
+    - Clostridioides difficile Colitis
 
 # Chapter: Diseases of the Pancreas (pancreas.tex)
   ## Section: Diabetes Mellitus
@@ -331,6 +346,7 @@
   ## Section: Glomerular Diseases
     - Diabetic Nephropathy
     - Focal Segmental Glomerulosclerosis
+    - Hemolytic Uremic Syndrome (HUS)
     - IgA Nephropathy
     - Membranous Nephropathy
     - Minimal Change Disease
@@ -349,6 +365,8 @@
   ## Section: Tubulointerstitial Diseases
     - Acute Interstitial Nephritis
     - Chronic Tubulointerstitial Nephritis
+  ## Section: Obstructive Uropathy
+    - Hydronephrosis
   ## Section: Urinary Tract Infections
     - Cystitis
     - Nephritic Syndrome
@@ -379,6 +397,7 @@
 # Chapter: Diseases of the Skin (skin.tex)
   ## Section: Acne and Related Disorders
     - Acne Vulgaris
+    - Hidradenitis Suppurativa
     - Rosacea
   ## Section: Autoimmune Blistering Diseases
     - Bullous Pemphigoid
@@ -390,8 +409,10 @@
   ## Section: Cutaneous Infections
     - Head Lice (Pediculosis Capitis)
     - Impetigo
+    - Onychomycosis (Tinea Unguium)
     - Scabies
     - Tinea Infections
+    - Tinea Versicolor (Pityriasis Versicolor)
     - Wound Infections and Surgical Site Infections
   ## Section: Eczematous Dermatoses
     - Atopic Dermatitis
@@ -419,6 +440,8 @@
     - Warts
   ## Section: Urticaria and Related Disorders
     - Alopecia Areata
+    - Erythema Multiforme
+    - Granuloma Annulare
     - Pemphigus Vulgaris
     - Pilonidal Sinus
     - Urticaria
@@ -456,8 +479,10 @@
     - Calcium Pyrophosphate Deposition Disease
     - Dupuytren Contracture
     - Hallux Valgus
+    - Lateral Epicondylitis (Tennis Elbow)
     - Morton Neuroma
     - Plantar Fasciitis
+    - Rotator Cuff Tendinopathy and Impingement
     - Trigger Finger
 
 # Chapter: Diseases of the Muscles (muscles.tex)
@@ -745,6 +770,7 @@
     - Sepsis and Septic Shock
   ## Section: Sexually Transmitted Infections
     - Chancroid
+    - Gonorrhea
     - Lymphogranuloma Venereum (LGV)
     - Non-Gonococcal Urethritis (NGU)
   ## Section: Tickborne and Vector-Borne Diseases
@@ -845,9 +871,11 @@
     - Epiglottitis
     - Esophageal Atresia / Tracheoesophageal Fistula
     - Ewing Sarcoma in Children
+    - Fifth Disease (Erythema Infectiosum / Parvovirus B19)
     - Fragile X Syndrome
     - Henoch-Sch\"onlein Purpura (IgA Vasculitis)
     - Hepatoblastoma
+    - Herpangina
     - Hirschsprung Disease
     - Human Metapneumovirus (hMPV)
     - Hypertrophic Pyloric Stenosis
@@ -867,6 +895,7 @@
     - Retinoblastoma
     - Retinopathy of Prematurity (ROP)
     - Rhabdomyosarcoma
+    - Roseola (HHV-6 / Sixth Disease)
     - Rotavirus
     - Turner Syndrome (45,X)
     - Viral Exanthems

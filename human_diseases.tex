@@ -19,8 +19,54 @@
 \usepackage{microtype}
 \usepackage{tabularx}
 \usepackage{amsmath}
-\usepackage{makeidx}
+\usepackage[makeindex]{imakeidx}
 \makeindex
+
+% --- Line-breaking flexibility to reduce overfull hboxes ---
+\setlength{\emergencystretch}{3em}
+\tolerance=500
+\hyphenpenalty=50
+\exhyphenpenalty=50
+
+% --- Global itemize setup ---
+\setlist[itemize]{leftmargin=*,nosep,rightmargin=1em,parsep=0pt,listparindent=0pt}
+
+% --- Table of contents depth ---
+\setcounter{tocdepth}{0}
+
+% --- Section numbering depth (chapters only) ---
+\setcounter{secnumdepth}{0}
+
+% --- Table of contents formatting: gap between number and name ---
+\titlecontents{chapter}[0pt]{\bfseries}%
+  {\contentslabel[\thecontentslabel]{2.5em}}%
+  {\hspace*{2.5em}}%
+  {\titlerule*[0.5pc]{.}\contentspage}
+
+% --- Illustrations framework ---
+% To add a figure to any disease chapter, use:
+%   \diseasefigure{filename}{Caption text}
+% Place image files in a figures/ directory.
+% Example: \diseasefigure{heart_anatomy}{Cross-section of the heart}
+\newcommand{\diseasefigure}[2]{%
+  \begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.7\textwidth]{figures/#1}
+    \caption{#2}
+    \label{fig:#1}
+  \end{figure}
+}
+% If the image file does not exist, compilation continues without error:
+\newcommand{\diseasefigureifexists}[2]{%
+  \IfFileExists{figures/#1}{%
+    \begin{figure}[htbp]
+      \centering
+      \includegraphics[width=0.7\textwidth]{figures/#1}
+      \caption{#2}
+      \label{fig:#1}
+    \end{figure}
+  }{}%
+}
 
 \usepackage{pdfpages}
 
@@ -46,7 +92,7 @@
 \fancyfoot[CE,CO]{\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
-\setlength{\headheight}{15pt}
+\setlength{\headheight}{26pt}
 
 \renewcommand{\chaptermark}[1]{\markboth{Chapter \thechapter\ --- #1}{}}
 \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
@@ -134,12 +180,66 @@ educators, and practitioners.}
 
 \tableofcontents
 
+\clearpage
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+\noindent
+All About Human Diseases is a comprehensive, patient-oriented medical reference
+that catalogs 891 diseases and disorders affecting every organ and system of
+the human body. Each chapter follows a consistent 11-section structure designed
+to give readers a complete yet accessible understanding of each condition:
+Overview, Causes, Risk Factors, Signs and Symptoms, Progression and Stages,
+Complications, Diagnosis, Prevention, Treatment Options, Living with It,
+and Outlook.
+
+\vspace{12pt}
+\noindent
+This book is intended for students, educators, healthcare trainees, and anyone
+seeking to understand diseases in plain, jargon-free language. Medical
+terminology has been simplified throughout without sacrificing accuracy, making
+complex medical concepts approachable for a general audience.
+
+\vspace{12pt}
+\noindent
+The Organ--Disease Dictionary appendix provides an alternative navigation
+path, grouping every disease by the primary organ or organ system it affects.
+A comprehensive index with page references completes the volume.
+
+\vspace{12pt}
+\noindent
+\emph{Chaman Singh Verma}
+
+\bigskip
+
+\chapter*{Foreword}
+\addcontentsline{toc}{chapter}{Foreword}
+
+\noindent
+The study of human disease is the study of human life itself. Each of the
+891 entries in this volume represents not only a clinical entity but a
+story---of how the body responds to injury, infection, genetic mutation, and
+the wear of time. This book brings those stories together in a format that
+prioritizes clarity and compassion.
+
+\vspace{12pt}
+\noindent
+Medicine advances daily, but the fundamental need to understand what happens
+to our bodies and why remains constant. Whether you are a student beginning
+your medical journey, a practitioner refreshing your knowledge, or a patient
+or caregiver seeking reliable information, I hope this reference serves you
+well.
+
 \mainmatter
 
 \input{all_diseases}
 
 % --- Back matter ---
 \input{appendix_organ_dictionary}
+
+\input{appendix_quick_reference}
+
+\input{appendix_classification_table}
 
 \backmatter
 
@@ -174,5 +274,6 @@ FEV1 & Forced expiratory volume in 1 second \\
 \end{tabularx}
 
 \clearpage
+\input{index_crossrefs}
 \printindex
 \end{document}
